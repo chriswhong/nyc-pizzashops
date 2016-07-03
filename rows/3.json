@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Patsy's",
+    "biggestfan": "Chris Whong",
+    "rating": 7,
+    "uid":3
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.977443,
+      40.778730
+    ]
+  }
+}

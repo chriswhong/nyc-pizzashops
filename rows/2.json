@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Artichoke Pizza",
+    "biggestfan": "Chris Whong",
+    "rating": 9,
+    "uid":2
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.00312304496765,
+      40.739221825089274
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Village Pizza",
+    "biggestfan": "Chris Whong",
+    "rating": 10,
+    "uid":1
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.97721290588379,
+      40.68093093003134
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Speedy Romeo",
+    "biggestfan": "Aurelia Moser",
+    "rating": 8,
+    "uid":4
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.960001,
+      40.687517
+    ]
+  }
+}

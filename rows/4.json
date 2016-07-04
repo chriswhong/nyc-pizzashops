@@ -2,8 +2,8 @@
   "type": "Feature",
   "properties": {
     "name": "Speedy Romeo",
-    "biggestfan": "Aurelia Moser",
-    "rating": 8,
+    "biggestfan": "Chris Whong",
+    "rating": 7,
     "uid":4
   },
   "geometry": {
